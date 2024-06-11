@@ -1,1 +1,1 @@
-# find_indpsubmatrix
+# Find independent submatrix
