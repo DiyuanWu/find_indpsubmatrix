@@ -57,7 +57,7 @@ f = open( 'results.txt','a' )
 results_dict = {}
 
 
-for n in range(107,121):
+for n in range(50,141):
 
     indp_cols_lists = []
     used_bad_idx = set()
